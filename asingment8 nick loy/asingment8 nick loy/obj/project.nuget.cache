@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "vY0J0XSWtc2NXVndWo6U+XCy49PpbS3sVcYmJSOl2ZEH40ErABYrEZLR2uGM7Mkf9IhnMrgFARnAap07Pi6fEQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nbloy\\source\\repos\\asingment8 nick loy\\asingment8 nick loy\\asingment8 nick loy.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nbloy\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.25\\microsoft.netcore.app.host.win-x64.3.1.25.nupkg.sha512"
+  ],
+  "logs": []
+}

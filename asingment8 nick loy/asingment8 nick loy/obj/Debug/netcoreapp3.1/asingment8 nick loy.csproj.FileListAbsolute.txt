@@ -1,0 +1,12 @@
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\bin\Debug\netcoreapp3.1\asingment8 nick loy.exe
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\bin\Debug\netcoreapp3.1\asingment8 nick loy.deps.json
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\bin\Debug\netcoreapp3.1\asingment8 nick loy.runtimeconfig.json
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\bin\Debug\netcoreapp3.1\asingment8 nick loy.runtimeconfig.dev.json
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\bin\Debug\netcoreapp3.1\asingment8 nick loy.dll
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\bin\Debug\netcoreapp3.1\asingment8 nick loy.pdb
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\obj\Debug\netcoreapp3.1\asingment8 nick loy.AssemblyInfoInputs.cache
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\obj\Debug\netcoreapp3.1\asingment8 nick loy.AssemblyInfo.cs
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\obj\Debug\netcoreapp3.1\asingment8 nick loy.csproj.CoreCompileInputs.cache
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\obj\Debug\netcoreapp3.1\asingment8 nick loy.dll
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\obj\Debug\netcoreapp3.1\asingment8 nick loy.pdb
+C:\Users\nbloy\source\repos\asingment8 nick loy\asingment8 nick loy\obj\Debug\netcoreapp3.1\asingment8 nick loy.genruntimeconfig.cache
